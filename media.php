@@ -40,7 +40,7 @@ $action='';
 
             if ($action=='search') {
                 $contenu=$_POST['contenu'];
-             //coucou les gens
+            
             }
 
             $op=limitep($action);
